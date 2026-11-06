@@ -1,0 +1,1 @@
+# Klzx-sensi-gerador
